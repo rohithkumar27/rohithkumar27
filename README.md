@@ -17,7 +17,7 @@ I enjoy working at the intersection of **systems, data, and real-world impact**.
 - **Backend & Distributed Systems** — microservices, Kafka, REST/gRPC, databases, scalability  
 - **☁️ Cloud & Infrastructure** — AWS, Docker, Kubernetes, CI/CD, observability  
 - **🤖 Applied AI / GenAI** — RAG pipelines, LLM fine-tuning, evaluation, AI-powered products  
-- **🧩 Full-Stack Engineering** — React, Node.js, TypeScript, real-time systems  
+- **🧩 Full-Stack Engineering** — React, Node.js, Java, SpringBoot, TypeScript, real-time systems  
 - **🔐 Privacy & Security** — web privacy measurement, tracking ecosystems, data protection analysis  
 
 ---
