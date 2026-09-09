@@ -108,12 +108,13 @@
 
 ---
 
-### ⚡ [DistServe](https://github.com/rohithkumar27/DistServeSystem) — Disaggregated LLM Serving
-> Separating prefill and decode across GPUs
+### ⚡ [DistServe](https://github.com/rohithkumar27/DistServeSystem) — Disaggregated LLM Inference
+> Implementation of the **DistServe** paper (Zhong et al., OSDI '24) for goodput-optimized LLM serving
 
-- 🧩 Disaggregated inference so long prefills stop starving decode
-- 📈 **TTFT / TPOT improved ~25%** under latency SLOs
-- 🚦 Multi-stage scheduler with **bandwidth-aware KV-cache transfer**
+- 📄 Reproduced the paper's core idea: separate **prefill and decode across GPUs** so long prefills stop starving decode
+- 📈 **TTFT / TPOT improved ~25%** under latency SLOs vs. a colocated baseline
+- 🚦 Multi-stage scheduler with **bandwidth-aware KV-cache transfer** for independent prefill / decode scaling
+- 🔬 Coursework at UMass CS in Systems for Deep Learning; distributed inference under production-shaped SLOs
 
 ---
 
@@ -127,11 +128,12 @@
 ---
 
 ### ⚖️ [Meta-Enriched RAG for Legal LLMs](https://github.com/SuyashManiyar/meta-enriched-rag-for-legal-llms)
-> Research-grade Retrieval-Augmented Generation system
+> Research-grade Retrieval-Augmented Generation system, fine-tuned on legal QA
 
 - 🧠 Metadata-aware context chunking + **FAISS hybrid (dense + lexical) retrieval**
 - 📈 **Recall@8 up +23%** on legal retrieval benchmarks
-- 🔬 **LoRA fine-tuning + DPO** on Aus LegalQA; **BERTScore F1 up +5%**
+- 🔬 Fine-tuned **Qwen** with **LoRA + DPO** on the Aus LegalQA dataset under an eval-metric-driven quality loop; **BERTScore F1 up +5%**
+- 🧪 Eval loop across retrieval quality (Recall@K) and answer quality (BERTScore, LLM-as-judge) so improvements were measurable, not vibes
 
 ---
 
