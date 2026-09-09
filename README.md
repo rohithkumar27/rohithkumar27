@@ -62,6 +62,23 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇_HackUMass_XIII-Winner_2025-FFD700?style=for-the-badge&labelColor=1E1E2E" alt="HackUMass Winner"/>
+  <img src="https://img.shields.io/badge/📄_ESORICS-2023_Publication-4B0082?style=for-the-badge&labelColor=1E1E2E" alt="ESORICS"/>
+  <img src="https://img.shields.io/badge/🧮_AMTI_Math_Olympiad-AIR_9-C41E3A?style=for-the-badge&labelColor=1E1E2E" alt="AMTI"/>
+  <img src="https://img.shields.io/badge/🎯_JEE_Advanced-AIR_1295-1976D2?style=for-the-badge&labelColor=1E1E2E" alt="JEE"/>
+</p>
+
+- 🏆 **HackUMass XIII Winner (2025)** — MLH Best Use of ElevenLabs, from 300+ teams *(Slide Scribe, accessibility classroom agent)*
+- 📄 **ESORICS 2023 Publication** — *Is Initial Consent, Final? Studying the Effect of Consent Modification in Websites* (peer-reviewed systems security venue)
+- 🧮 **AMTI National Mathematics Olympiad, All India Rank 9** (Association of Mathematics Teachers of India, 2015)
+- 🎯 **JEE Advanced, All India Rank 1295** (2019, top 160K of ~1M candidates for one of India's most competitive undergraduate entrance exams)
+- 🎓 **CGPA 4.0 / 4.0** at UMass Amherst (MS CS, in progress) · **CGPA 3.5 / 4.0** at IIT Gandhinagar (BTech CSE)
+
+---
+
 ## 🏗️ Featured Projects
 
 ### 🛰️ SS&C AI Gateway & Knowledge Platform *(current work)*
