@@ -109,12 +109,12 @@
 ---
 
 ### ⚡ [DistServe](https://github.com/rohithkumar27/DistServeSystem) — Disaggregated LLM Inference
-> Implementation of the **DistServe** paper (Zhong et al., OSDI '24) for goodput-optimized LLM serving
+> Improved LLM serving latency and goodput by disaggregating prefill and decode across GPUs
 
-- 📄 Reproduced the paper's core idea: separate **prefill and decode across GPUs** so long prefills stop starving decode
+- 🧩 Separated **prefill and decode inference stages** onto distinct GPU workers so long prefills stop starving decode
 - 📈 **TTFT / TPOT improved ~25%** under latency SLOs vs. a colocated baseline
 - 🚦 Multi-stage scheduler with **bandwidth-aware KV-cache transfer** for independent prefill / decode scaling
-- 🔬 Coursework at UMass CS in Systems for Deep Learning; distributed inference under production-shaped SLOs
+- 🔬 Explored disaggregated staging as a way to hit SLO-aware goodput even when concurrent request arrivals spike
 
 ---
 
