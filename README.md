@@ -17,8 +17,8 @@
 > I build **distributed backend platforms**, **LLM agent infrastructure**, and **cloud-native services**, most recently an internal AI gateway routing **1.8B+ tokens/day** and a federated knowledge platform spanning five product units.
 
 - 🎓 **MS Computer Science @ UMass Amherst** (Sep 2025 – Dec 2026), CGPA **4.0 / 4.0**
-- 🎯 **Open to New Grad SWE roles**, starting **Jan / Feb 2027**
-- 💡 Interests: distributed storage, retrieval systems, agent infra, developer platforms
+- 🎯 **Open to New Grad SWE roles**, starting May 2027**
+- 💡 Interests: LLM Serving, distributed systems and storage, retrieval systems, agent infra, developer platforms,
 - 📍 Currently in **Boston, MA**
 
 ---
